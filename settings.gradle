@@ -14,3 +14,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "GitHubApp"
 include ':app'
+include ':retrofit'
+include ':entitysApp'
+include ':viewModel'
